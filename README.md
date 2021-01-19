@@ -11,9 +11,8 @@ My Web Development GitHub repository. This repo will be used for my learning abo
 5. Live Preview (to see changes of the Website)
 
 ### Further improvements and Visual Designs comming soon
-Stay updated
+<em>Stay updated</em>
 
 Follow me on Instagram: @onezero_______ 
-
 
 Follow me on Facebook: Glowinthedark Bayar
