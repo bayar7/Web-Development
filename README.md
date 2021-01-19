@@ -13,6 +13,6 @@ My Web Development GitHub repository. This repo will be used for my learning abo
 ### Further improvements and Visual Designs comming soon
 <em>Stay updated</em>
 
-Follow me on Instagram: @onezero_______ 
+Follow me on Instagram: [@onezero_______ ](https://www.instagram.com/onezero_______)
 
-Follow me on Facebook: Glowinthedark Bayar
+Follow me on Facebook: [Glowinthedark Bayar](https://www.facebook.com/stereotronic.sd)
