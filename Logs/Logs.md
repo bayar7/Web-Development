@@ -4,10 +4,9 @@
 
 
 ```html
- 1. Added about.html
- Solved profile picture not alligning to left 
- problem
+ 1. About.html (new page)
+ Solved profile picture problem not alligning to left 
 
+ 2. Index.html 
+Footer updated
 ```
-
- 2. index.html 
