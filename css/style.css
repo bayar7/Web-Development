@@ -36,8 +36,8 @@ a:hover{
 }
 
 header{
-    width: 960px;
-    height: 100px;
+    width: 1280px;
+    height: 10px;
     margin: 0 auto;
 }
 
@@ -48,12 +48,12 @@ header{
 
 .global-nav {
     float:right;
-    margin-top: 60px;
+    margin-top: 80px;
 }
 
 .global-nav li{
     float: left;
-    margin: 0 50px;
+    margin: 0 20px;
     font-size: 20px;
     list-style: none;
     font-family: 'Montserrat', sans-serif;
@@ -71,6 +71,9 @@ header{
 
 #wrap {
     clear: both;
+    background-color: #ffffff;
+    margin-top: 220px;
+    padding: 35px 0;
 }
 
 .content {
@@ -79,9 +82,10 @@ header{
 }
 
 footer {
-    text-align:  center;
+    text-align: center;
      color: #ffffff;
      padding: 20px 0;
+     background-color: #000000;
 }
 
 footer small {
@@ -94,10 +98,11 @@ footer small {
     color: #ffffff;
     font-family: 'Montserrat', sans-serif;
     margin-bottom: 50px;
+    border: none;
 }
 
 #index .content {
-    margin-top: 50px;
+    margin-top: 150px;
 }
 
 #index p {
@@ -128,17 +133,93 @@ footer small {
  #index footer {
      width: 960px;
      margin: 150px auto 0 auto;
-     text-align: left;
+     text-align: center;
+     margin-top: 150px;
+     background-color: transparent;
  }
 
  #index {
-     background-image: url(/Images/BG61.jpg);
+    background-image: url(/Images/BG61.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;    
 }
 
+#about {
+   background-image: url(/Images/bg2.jpg);
+   background-repeat: no-repeat;
+   background-position: center top;
+   background-attachment: fixed;
+   background-size: 100% auto;    
+}
 
+.main-center {
+    width: 940px;
+    margin: 0 auto;
+}
 
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    border-bottom: 1px solid #cccccc;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+}
+
+.icon:before {
+    content: "";
+    padding-right: 10px;
+    border-left: 7px solid #0d2d85;
+}
+
+#about .profile-txt {
+    width: 540px;
+    float: left;
+}
+
+#about .profile-txt span{
+    font-weight: bold;
+}
+
+#about .profileImage {
+    float: right;
+    width: 350px;
+}
+
+.clearfix:after {
+    content: "";
+    display: block;
+    clear: both;
+}
   
+section {
+    margin-bottom: 35px;
+}
+
+#about .career th {
+    width: 240px;
+    background-color: #f0f0f0;
+    padding: 12px 0;
+    border: 1px solid #cccccc;
+}
+
+#about .career td {
+    width: 660px;
+    padding: 12px 0 12px 40px;
+    border: 1px solid #cccccc;
+}
+
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+#index #wrap {
+    background-color: transparent;
+    margin-top: 0;
+    padding: 0;
+}
