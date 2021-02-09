@@ -2,11 +2,9 @@
 
  2021/2/9 New updates
 
-1. 
 
 ```html
-
- Added about.html <br>
+ 1. Added about.html
  Solved profile picture not alligning to left 
  problem
 
