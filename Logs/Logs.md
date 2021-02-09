@@ -4,12 +4,12 @@
 
 1. 
 
- '''html
+```html
 
  Added about.html <br>
  Solved profile picture not alligning to left 
  problem
 
- ''' 
+```
 
  2. index.html 
