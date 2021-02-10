@@ -10,3 +10,11 @@
  2. Index.html 
 Footer updated
 ```
+
+ 2021/2/10 New update
+
+ ```html
+ 1. Portfolio.html (new page)
+ 2. Added "Web development" menu to header
+ 3. Added "WebDev.html" link to other pages 
+```
