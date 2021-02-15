@@ -77,7 +77,7 @@ header{
 }
 
 .content {
-    width: 960px;
+    width: 1280px;
     margin: 0 auto;
 }
 
@@ -155,7 +155,7 @@ footer small {
 }
 
 .main-center {
-    width: 940px;
+    width: 1000px;
     margin: 0 auto;
 }
 
@@ -246,15 +246,12 @@ table {
     font-family: 'Montserrat', sans-serif;
 }
 
-
-#portfolio .content {
-    width: 1280px;
-}
-
-
 #portfolio h2{
     border-bottom: 1px solid #cccccc;
+}
 
+#coding h2{
+    border-bottom: 1px solid #cccccc;
 }
 
 a img:hover{
@@ -278,3 +275,12 @@ a img:hover{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+#coding {
+    background-image: url(/Images/bg2.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: 100% auto; 
+}
+

@@ -23,6 +23,14 @@ Footer updated
 
  ```html
  1. Portfolio.html centered images
- 2. 
- 3. 
 ```
+
+ 2021/2/15 New update
+
+ ```html
+ 1. Created coding.html
+ 2. Sidebar bug fixes and unified with other sidebars
+ 3. Header image overflowing to the main area bug fix
+ 4. Added images to the coding page
+```
+
