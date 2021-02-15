@@ -18,3 +18,11 @@ Footer updated
  2. Added "Web development" menu to header
  3. Added "WebDev.html" link to other pages 
 ```
+
+ 2021/2/11 New update
+
+ ```html
+ 1. Portfolio.html centered images
+ 2. 
+ 3. 
+```
