@@ -1,5 +1,9 @@
 @charset "utf-8";
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin:0;
     padding: 0;
@@ -269,6 +273,8 @@ a img:hover{
 
 .sidebar ul a{
     color:#333333;
+    transition: 0.3s ease-in-out;
+
 }
 
 .sidebar li{
@@ -283,4 +289,3 @@ a img:hover{
     background-attachment: fixed;
     background-size: 100% auto; 
 }
-

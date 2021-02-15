@@ -32,5 +32,6 @@ Footer updated
  2. Sidebar bug fixes and unified with other sidebars
  3. Header image overflowing to the main area bug fix
  4. Added images to the coding page
+ 5. Added smooth scroll effect (html tag)
 ```
 
